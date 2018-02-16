@@ -1,0 +1,13 @@
+The program verifies that the string introduced by the user contains at least two characters before the process.
+
+After validating that the user introduces at least a word in and the keyword them time for the magic.
+
+The program storage the string in a variable.
+
+The program split the string and save each word into an array.
+
+The program employs a foreach loop that goes through each value in the array and compares with the keyword provided for the user.
+
+The program adds 1 for each time value matches the keyword and storage it in a variable called result.
+
+Once the loop made, the var result is our magic number which is going to be displayeds to the user.
